@@ -10,6 +10,14 @@ namespace MultiplicationTable
     {
         static void Main(string[] args)
         {
+            for (int i = 1; i < 11; i++)
+            {
+                for (int p = 1; p < 11; p++)
+                {
+                    Console.Write(p * i + "\t");
+                }
+                Console.Write("\n\n");
+            }
         }
     }
 }

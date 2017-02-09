@@ -10,6 +10,12 @@ namespace Sum50
     {
         static void Main(string[] args)
         {
+            int sums = 0;
+            for (int i = 0; i < 51; i++)
+            {
+                sums += i;
+            }
+            Console.WriteLine(sums);
         }
     }
 }
