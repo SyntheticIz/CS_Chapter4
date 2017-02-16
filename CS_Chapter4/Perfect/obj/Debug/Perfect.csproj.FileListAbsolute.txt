@@ -3,3 +3,4 @@ C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Perfect\bin\Debug\Perfe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Perfect\bin\Debug\Perfect.pdb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Perfect\obj\Debug\Perfect.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Perfect\obj\Debug\Perfect.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter4\CS_Chapter4\Perfect\obj\Debug\Perfect.csprojResolveAssemblyReference.cache
